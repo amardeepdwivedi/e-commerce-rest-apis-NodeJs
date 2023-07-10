@@ -14,7 +14,7 @@ This command will install all the required dependancies.
 
 ### Setup Environment
 
-Create a new file called `.env`. Change DB_URL to yours db url.
+Create a new file called `.env`. Change `DB_URL` to yours db url.
 
 ### Run the server
 
